@@ -26,9 +26,11 @@ def fetch_proxies():
         ("SOCKS5", "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt"),
         ("HTTP",   "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"),
         ("HTTP",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/http.txt"),
+        ("HTTP",   "https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/http/data.txt"),
         ("SOCKS5",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/socks5.txt"),
         ("TOR",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/tor-exit-nodes.txt"),
         ("MIXED",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/proxies.txt"),
+        ("MIXED",   "https://proxylist.geonode.com/api/proxy-list?protocols=socks5%2Chttp&limit=500&page=1&sort_by=lastChecked&sort_type=desc"),
         ("MIXED",  "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=protocolipport&format=text")
     ]
 
