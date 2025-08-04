@@ -15,3 +15,14 @@ Scan thousands of HTTP and SOCKS5 proxies with multi-source auto-fetching, split
 * 📄 Output split to live_http.txt & live_socks5.txt
 * 📊 Live stats: total checked, live/dead count, and average ping
 * ✨ No GUI. No bullshit. Just pure terminal power.
+
+# Usage
+```
+python3 proxy-checker.py
+```
+
+
+## 📜 License
+
+This project is licensed under the `MIT License`
+
