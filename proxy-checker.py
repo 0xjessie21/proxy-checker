@@ -25,6 +25,9 @@ def fetch_proxies():
     urls = [
         ("SOCKS5", "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt"),
         ("HTTP",   "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"),
+        ("HTTP",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/http.txt"),
+        ("SOCKS5",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/socks5.txt"),
+        ("MIXED",   "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/proxies.txt"),
         ("MIXED",  "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=protocolipport&format=text")
     ]
 
