@@ -7,7 +7,7 @@ Because checking proxies shouldn't be boring. Scan thousands of HTTP and SOCKS5 
 ![Proxy Checker](https://github.com/0xjessie21/proxy-checker/blob/main/proxy-checker.png)
 
 # Features
-* Auto-fetch proxies from 3 reliable sources (TheSpeedX + ProxyScrape)
+* Auto-fetch proxies from some reliable sources
 * 🔎 Real-time proxy scanning with colorful terminal feedback
 * ⚡ Multi-threaded performance (50 threads by default)
 * ✨ Rich Console UI — stylish without fullscreen
