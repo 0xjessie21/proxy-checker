@@ -15,6 +15,12 @@ Because checking proxies shouldn't be boring. Scan thousands of HTTP and SOCKS5 
 * 📊 Live stats: total checked, live/dead count, and average ping
 * ✨ No GUI. No bullshit. Just pure terminal power.
 
+# Installation
+```yaml
+git clone https://github.com/0xjessie21/proxy-checker.git
+cd proxy-checker
+```
+
 # Usage
 ```yaml
 python3 proxy-checker.py
