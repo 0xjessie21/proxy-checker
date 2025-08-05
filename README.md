@@ -4,7 +4,7 @@
 Because checking proxies shouldn't be boring. Scan thousands of HTTP and SOCKS5 proxies with multi-source auto-fetching, split output, and sleek Rich-powered UI — all in a single Python file.
 
 # Screenshot
-![Proxy Checker](https://github.com/0xjessie21/proxy-checker/blob/main/proxy-checker.png)
+![Proxy Checker](https://github.com/0xjessie21/proxy-checker/blob/master/proxy-checker.png)
 
 # Features
 * Auto-fetch proxies from some reliable sources
